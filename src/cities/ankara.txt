@@ -1,0 +1,4 @@
+istanbul,250
+zonguldak,100
+van,300
+ağrı,400
